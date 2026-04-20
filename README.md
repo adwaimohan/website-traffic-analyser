@@ -82,22 +82,23 @@ website-traffic-analytics/
 
 ### Executive Overview
 
-<img width="485" height="277" alt="overview" src="https://github.com/user-attachments/assets/6addf301-6ade-42cc-8754-64d9ab19ab28" />
+<img width="485" height="277" alt="overview" src="https://github.com/user-attachments/assets/11e03c8d-6633-4927-9f60-0d670f4c0a1f" />
+
 
 
 ### Traffic Performance
-
-<img width="486" height="275" alt="traffic" src="https://github.com/user-attachments/assets/499bcc2a-f09b-469a-9ea8-79b02451a334" />
+<img width="486" height="275" alt="traffic" src="https://github.com/user-attachments/assets/2bbf904a-3513-42cb-bbc0-dce783298ea1" />
 
 
 ### User Behavior
 
-<img width="487" height="280" alt="behaviour" src="https://github.com/user-attachments/assets/b9774ca7-8118-456a-ae01-756302726b13" />
+<img width="487" height="280" alt="behaviour" src="https://github.com/user-attachments/assets/3f20a511-ecdd-4d0e-b73d-6e98994830bb" />
+
 
 
 ### Conversion Funnel
 
-<img width="484" height="275" alt="funnel" src="https://github.com/user-attachments/assets/64297cae-42ec-488f-ba7b-68db94bcdb30" />
+<img width="484" height="275" alt="funnel" src="https://github.com/user-attachments/assets/690b3a10-2d4d-4101-ab5b-9dbb83c4e06e" />
 
 
 ---
